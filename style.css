@@ -126,6 +126,4 @@ footer p {
     padding-top: 20px;
 }
 
-@media only screen and (min-width: 768px) {
-    .features-img:
-}
+@media only screen and (min-width: 768px) {}
